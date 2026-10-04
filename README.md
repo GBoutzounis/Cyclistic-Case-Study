@@ -39,3 +39,5 @@ Data aggregation, cleaning, and preparation were conducted entirely in Excel, wh
 *   **Create a "Weekend-Only" Membership:** Offer a tailored annual plan specifically for riders who use bikes on Saturdays and Sundays.
 *   **Advertise Cost Savings:** Launch a campaign showing casual riders how quickly an annual membership pays for itself on trips lasting longer than 30 minutes.
 *   **Target Leisure Locations:** Focus physical and digital advertising near parks and recreational areas during peak weekend hours, rather than at commuter-heavy stations.
+
+   Due to GitHub file size limits, the third raw dataset can be downloaded [here](https://docs.google.com/spreadsheets/d/18zJnYmuLt7_SR24vgQK9IKmS34cFlksS/edit?usp=drive_link&ouid=109591872825581321242&rtpof=true&sd=true).
