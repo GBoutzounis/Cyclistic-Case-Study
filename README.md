@@ -28,11 +28,17 @@ Data aggregation, cleaning, and preparation were conducted entirely in Excel, wh
 
 ## Key Insights
 
-*(Note: To view the full Tableau visualizations supporting these insights, please refer to the **`Cyclistic_Case_Study.pdf`** presentation included in this repository.)*
+* **Weekly Ride Volume:** Annual members display high, consistent usage Monday through Friday, indicating they primarily use Cyclistic for daily commuting. In contrast, casual rider volume remains low during the workweek but nearly doubles on Saturdays and Sundays, indicating leisure use.
 
-*   **Weekly Ride Volume:** Annual members display high, consistent usage Monday through Friday, indicating they primarily use Cyclistic for daily commuting. In contrast, casual rider volume remains low during the workweek but nearly doubles on Saturdays and Sundays, indicating leisure use.
-*   **Average Ride Length:** Casual riders take trips nearly 3 times longer than annual members, averaging 35+ minutes per ride (recreational, leisure use) compared to ~12 minutes for members (quick, point-to-point commutes). This pattern remains consistent across all seven days of the week.
-*   **Top 20 Start Stations:** The highest-traffic stations in the network are heavily dominated by members, who drive almost all the volume at these locations. Casual riders represent a very small fraction of starts at these specific high-traffic commuter spots.
+  <img src="Weekly Rides.png" width="700">
+
+* **Average Ride Length:** Casual riders take trips nearly 3 times longer than annual members, averaging 35+ minutes per ride (recreational, leisure use) compared to ~12 minutes for members (quick, point-to-point commutes). This pattern remains consistent across all seven days of the week.
+
+  <img src="Average Ride Length.png" width="700">
+
+* **Top 20 Start Stations:** The highest-traffic stations in the network are heavily dominated by members, who drive almost all the volume at these locations. Casual riders represent a very small fraction of starts at these specific high-traffic commuter spots.
+
+  <img src="Top 20 Start Stations.png" width="700">
 
 ## Recommendations
 
