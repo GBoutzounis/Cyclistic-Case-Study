@@ -38,7 +38,7 @@ Data aggregation, cleaning, and preparation were conducted entirely in Excel, wh
 
 * **Top 20 Start Stations:** The highest-traffic stations in the network are heavily dominated by members, who drive almost all the volume at these locations. Casual riders represent a very small fraction of starts at these specific high-traffic commuter spots.
 
-  <img src="Top 20 Start Stations.png" width="700">
+  <img src="Top 20 Start Stations.png" width="900">
 
 ## Recommendations
 
